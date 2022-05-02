@@ -1,0 +1,42 @@
+[
+    {
+        "idempleado": 1,
+        "idgym": 1,
+        "cargo": "Profesor Fullbody",
+        "turno": "Mañana",
+        "nombres": "Renzo",
+        "apellidos": "Vasquez Nuñez",
+        "dni": "74568412",
+        "telefono": "945872135",
+        "correo": "renzovn@hotmail.com",
+        "direccion": "Jr. Júpiter 85",
+        "idgymNavigation": null
+    },
+    {
+        "idempleado": 2,
+        "idgym": 2,
+        "cargo": "Profesora Aeróbicos",
+        "turno": "Tarde",
+        "nombres": "María Fernanda",
+        "apellidos": "Muñoz Rodriguez",
+        "dni": "65874123",
+        "telefono": "965418759",
+        "correo": "mariamuñoz@hotmail.com",
+        "direccion": "Av. Saturno 458",
+        "idgymNavigation": null
+    },
+    {
+        "idempleado": 3,
+        "idgym": 3,
+        "cargo": "Profesora Musculatura",
+        "turno": "Tarde",
+        "nombres": "José Luis",
+        "apellidos": "Quispe Valdez",
+        "dni": "85612487",
+        "telefono": "902315548",
+        "correo": "josequispevaldez@yahoo.com",
+        "direccion": "Av. Marte 521",
+        "idgymNavigation": null
+    }
+  
+]

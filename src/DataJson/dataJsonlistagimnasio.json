@@ -1,0 +1,23 @@
+[
+    {
+        "idgym": 1,
+        "direccion": "Av. Las Flores 235",
+        "correo": "gymgold@gmail.com",
+        "telefono": "957846851"
+        
+    },
+    {
+        "idgym": 2,
+        "direccion": "Av. Filosofos 569",
+        "correo": "gymgold@gmail.com",
+        "telefono": "971236459"
+        
+    },
+    {
+        "idgym": 3,
+        "direccion": "Jr. El Mercurio 25",
+        "correo": "gymgold@gmail.com",
+        "telefono": "964257914"
+        
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "idcliente": 1,
+        "idgym": 3,
+        "nombres": "Raúl",
+        "apellidos": "Romero Vargas",
+        "telefono": "951244897",
+        "dni": "25486544",
+        "activo": true
+    },
+    {
+        "idcliente": 2,
+        "idgym": 3,
+        "nombres": "Miguel",
+        "apellidos": "Martinez Sanchez",
+        "telefono": "956887455",
+        "dni": "22546987",
+        "activo": true
+    },
+    {
+        "idcliente": 3,
+        "idgym": 2,
+        "nombres": "Sayuri",
+        "apellidos": "Carreño Quispe",
+        "telefono": "965874122",
+        "dni": "75486954",
+        "activo": true
+    },
+    {
+        "idcliente": 4,
+        "idgym": 1,
+        "nombres": "jose",
+        "apellidos": "quispe a",
+        "telefono": "988889999",
+        "dni": "99999999",
+        "activo": true
+    },
+    {
+        "idcliente": 5,
+        "idgym": 1,
+        "nombres": "jose",
+        "apellidos": "Tiquillahuanca",
+        "telefono": "999999999",
+        "dni": "75486954",
+        "activo": true
+    }
+]
